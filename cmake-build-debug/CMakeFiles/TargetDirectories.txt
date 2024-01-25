@@ -1,0 +1,3 @@
+C:/Studia/C_programming/K/K2/oud_lab_test/cmake-build-debug/CMakeFiles/oud_lab_test.dir
+C:/Studia/C_programming/K/K2/oud_lab_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Studia/C_programming/K/K2/oud_lab_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
